@@ -8,11 +8,11 @@
 - Para testar as skills que venho adquirindo ao longo do curso ProgramadorBR, em conjunto com o projeto desenvolvido pelo curso, Refiz o jogo da Memória onde antes feito toda a manipulação da carta com Js, agora com react ficou tudo mais fácil manipulando os estados com hooks e fazendo a verificação e manipulando o que vai aparecer na tela com o useEffect.
 - Para passar as propriedades fui passando elas do pai para os filhos, mas futuramente ao aprender redux, modificarei para transmitir essas propriedades entre os componentes por redux.
 
-## Apresentação do Pojeto:
+## Apresentação do Projeto:
  <img src="./video.gif">
 
 ## Observação:
-- Não consegui subir o porjeto, mas basta apenas baixar a pasta e rodar no terminal.
+- Não consegui subir o projeto, mas basta apenas baixar a pasta e rodar no terminal.
 - Para rodar apenas basta baixar e no terminal colocar: npm start
 - Pronto, fazendo esses passos você pode testar a aplicação
 
